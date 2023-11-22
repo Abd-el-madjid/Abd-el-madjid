@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, World! 👋<br><br>I'm Abd El Madjid Kahoul, a passionate computer science master's student currently collaborating with the University Constantine 2 on structural projects for the management of research labs. 🎓<br><br>## 🚀 Current Focus<br><br>- 👨‍💻 Working on structural projects for lab management with University Constantine 2.<br>- 📚 Learning Oracle Database development.<br>- 📱 Exploring mobile development with Java.<br>- 💻 Diving into the world of web development with React.js.<br>- 🐍 Mastering the art of Python.<br><br>## 🌐 Connect with Me
+# Hello, World! 👋<br><br>I'm Abd El Madjid Kahoul, a passionate computer science master's student currently collaborating with the University Constantine 2 on structural projects for the management of research labs. 🎓<br><br> 🚀 Current Focus<br><br>- 👨‍💻 Working on structural projects for lab management with University Constantine 2.<br>- 📚 Learning Oracle Database development.<br>- 📱 Exploring mobile development with Java.<br>- 💻 Diving into the world of web development with React.js.<br>- 🐍 Mastering the art of Python.<br><br>## 🌐 Connect with Me
 
 
 ## 🌐 Socials:
