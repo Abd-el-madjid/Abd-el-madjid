@@ -23,7 +23,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abd-el-madjid&icon=2&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Abd-el-madjid&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
  
   
